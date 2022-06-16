@@ -52,7 +52,7 @@ void *_calloc(unsigned int nmemb, unsigned int size);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 line_list *add_line_node_end(line_list **head, char *line);
 void free_line_list(line_list **head);
-char *_strtoky(char *s, char *d);
+char *_strtok(char *s, char *d);
 int _sch(char *s, char c);
 
 #endif
