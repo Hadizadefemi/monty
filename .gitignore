@@ -4,8 +4,5 @@
 *~
 *#
 
-# Ignore main file
-*main.c
-
 # Ignore exe file
 *.exe
